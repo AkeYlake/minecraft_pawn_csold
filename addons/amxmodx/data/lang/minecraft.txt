@@ -1,0 +1,33 @@
+[en]
+MC_MENU_NUMBER = \y[\r%i\y]
+MC_MENU_NUMBER_EIGHT = \y[\r8\y]
+MC_MENU_NUMBER_NINE = \y[\r9\y]
+MC_MENU_NUMBER_ZERO = \y[\r0\y]
+MC_MENU_USE = \r[USE]
+
+MC_MENU_BLOCK_TITLE = Меню блоков
+
+MC_MENU_BLOCK_CREATE = Поставить блок
+MC_MENU_BLOCK_DELETE = Удалить блок
+MC_MENU_BLOCK_DELETE_ALL = Удалить все блоки
+MC_MENU_BLOCK_CHOOSE_SKIN = Выбрать блок
+
+
+MC_MENU_BLOCK_CHOOSE_TITLE = Меню выбора блока
+
+MC_MENU_BLOCK_CHOOSE_1 = Булыжник
+MC_MENU_BLOCK_CHOOSE_2 = Доски
+MC_MENU_BLOCK_CHOOSE_3 = Земля
+MC_MENU_BLOCK_CHOOSE_4 = Лед
+MC_MENU_BLOCK_CHOOSE_5 = Железная руда
+MC_MENU_BLOCK_CHOOSE_6 = Лампа
+MC_MENU_BLOCK_CHOOSE_7 = Кварц
+MC_MENU_BLOCK_CHOOSE_8 = Морской фонарь
+MC_MENU_BLOCK_CHOOSE_9 = Снег
+MC_MENU_BLOCK_CHOOSE_10 = Камень
+MC_MENU_BLOCK_CHOOSE_11 = Шерсть
+MC_MENU_BLOCK_CHOOSE_12 = Алмаз
+
+MC_MENU_NEXT = Далее
+MC_MENU_BACK = Назад
+MC_MENU_EXIT = Выход
